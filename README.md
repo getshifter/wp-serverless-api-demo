@@ -1,6 +1,6 @@
 # WP Serverless API - Demo
 
-(Demo Site)[http://wp-sls-api-demo.s3-website-us-east-1.amazonaws.com/]
+[Demo Site](http://wp-sls-api-demo.s3-website-us-east-1.amazonaws.com/)
 
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
